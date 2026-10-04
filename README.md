@@ -112,3 +112,4 @@ python cover.py    # bora_kapak.png: gönderilen/alınan + spektrogram
 - [ ] Hata düzeltme (Reed-Solomon)
 - [ ] Rust implementasyonu
 - [ ] Canlı alıcı (mikrofondan gerçek zamanlı çözme)
+# BORA

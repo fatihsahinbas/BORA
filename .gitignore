@@ -1,0 +1,10 @@
+*.wav
+*.npz
+*.mp4
+prev_*.png
+chk*.png
+cmp.png
+/src.png
+/dec.png
+bora_kapak.png
+__pycache__/
